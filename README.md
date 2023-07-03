@@ -1,2 +1,2 @@
 # Manualprojects
-Manual Testcases for different pages
+Manual Test Scenarios and Test cases for different pages and applications.
